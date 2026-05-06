@@ -78,12 +78,12 @@ const PROJECTS: Project[] = [
   },
   {
     id: 5,
-    title: "RICK SANTANA // MUSICALITY WORKSHOP",
+    title: "Rick Santana - Brazil Dance Camp 2022",
     category: "AULAS",
-    videoId: "NkDg4I3Ps1c",
-    image: "https://img.youtube.com/vi/NkDg4I3Ps1c/maxresdefault.jpg",
-    date: "2023-12-12",
-    year: "2023",
+    videoId: "XjUFsWa1v7k",
+    image: "https://img.youtube.com/vi/XjUFsWa1v7k/maxresdefault.jpg",
+    date: "2022-01-01",
+    year: "2022",
     type: "Aula"
   },
   {
