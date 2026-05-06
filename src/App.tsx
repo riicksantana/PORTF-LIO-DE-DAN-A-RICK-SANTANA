@@ -611,8 +611,14 @@ const PortfolioGallery = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [sortOrder, setSortOrder] = useState<'desc' | 'asc'>('desc');
   const [activeVideo, setActiveVideo] = useState<string | null>(null);
+  const [visibleCount, setVisibleCount] = useState(8);
 
   const categories = ['ALL', 'SHOWS', 'AULAS', 'DANCE VIDEOS', 'FREESTYLES', 'DICAS'];
+
+  // Reset pagination when filters change
+  useEffect(() => {
+    setVisibleCount(8);
+  }, [filter, searchQuery]);
 
   const filteredAndSortedProjects = PROJECTS
     .filter(p => {
@@ -712,7 +718,7 @@ const PortfolioGallery = () => {
           viewport={{ once: true, margin: "-20px" }}
         >
           <AnimatePresence mode="popLayout">
-            {filteredAndSortedProjects.map((project) => (
+            {filteredAndSortedProjects.slice(0, visibleCount).map((project) => (
               <motion.div 
                 layout
                 key={project.id}
@@ -747,6 +753,17 @@ const PortfolioGallery = () => {
             ))}
           </AnimatePresence>
         </motion.div>
+
+        {filteredAndSortedProjects.length > visibleCount && (
+          <div className="mt-16 text-center">
+            <button 
+              onClick={() => setVisibleCount(prev => prev + 12)}
+              className="px-10 py-4 border border-white/10 hover:border-white text-[10px] uppercase font-bold tracking-[0.25em] transition-all bg-brand-gray/50 hover:bg-white hover:text-black"
+            >
+              Carregar Mais
+            </button>
+          </div>
+        )}
 
         {filteredAndSortedProjects.length === 0 && (
           <div className="text-center py-24 text-white/20">
