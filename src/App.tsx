@@ -368,6 +368,260 @@ const PROJECTS: Project[] = [
     date: "2024-03-05",
     year: "2024",
     type: "Dica"
+  },
+  // AULAS - Adicionais
+  {
+    id: 34,
+    title: "RICK SANTANA - Fresh Tour  Rio de Janeiro 2016",
+    category: "AULAS",
+    videoId: "CNAo9JyHuyo",
+    image: "https://img.youtube.com/vi/CNAo9JyHuyo/maxresdefault.jpg",
+    date: "2016-06-01",
+    year: "2016",
+    type: "Aula"
+  },
+  {
+    id: 35,
+    title: "RICK SANTANA - MDA SUMMER CLASS 2020",
+    category: "AULAS",
+    videoId: "GSdAS-BRT4k",
+    image: "https://img.youtube.com/vi/GSdAS-BRT4k/maxresdefault.jpg",
+    date: "2020-01-15",
+    year: "2020",
+    type: "Aula"
+  },
+  {
+    id: 36,
+    title: "RICK SANTANA - HIP HOP DISTRICT 2019",
+    category: "AULAS",
+    videoId: "dIfbnWZHqjQ",
+    image: "https://img.youtube.com/vi/dIfbnWZHqjQ/maxresdefault.jpg",
+    date: "2019-08-20",
+    year: "2019",
+    type: "Aula"
+  },
+  {
+    id: 37,
+    title: "RICK SANTANA - Fresh Tour Rio de Janeiro 2019",
+    category: "AULAS",
+    videoId: "oJqpl0HAqwE",
+    image: "https://img.youtube.com/vi/oJqpl0HAqwE/maxresdefault.jpg",
+    date: "2019-06-10",
+    year: "2019",
+    type: "Aula"
+  },
+  {
+    id: 38,
+    title: "Rick Santana - Know You - Workshop - Araxá",
+    category: "AULAS",
+    videoId: "rRYeS9W1jdc",
+    image: "https://img.youtube.com/vi/rRYeS9W1jdc/maxresdefault.jpg",
+    date: "2021-05-15",
+    year: "2021",
+    type: "Aula"
+  },
+  {
+    id: 39,
+    title: "Rick Santana - Lotus - Workshop - Araxá",
+    category: "AULAS",
+    videoId: "-naPVVYuSHE",
+    image: "https://img.youtube.com/vi/-naPVVYuSHE/maxresdefault.jpg",
+    date: "2021-05-16",
+    year: "2021",
+    type: "Aula"
+  },
+  {
+    id: 40,
+    title: "RICK E GLADSON - WORKSHOP",
+    category: "AULAS",
+    videoId: "nuvq73nXOps",
+    image: "https://img.youtube.com/vi/nuvq73nXOps/maxresdefault.jpg",
+    date: "2022-07-10",
+    year: "2022",
+    type: "Aula"
+  },
+  {
+    id: 41,
+    title: "RICK SANTANA - LONG NIGHT - WORKSHOP - SOUL GUETTO",
+    category: "AULAS",
+    videoId: "OkUB2mkaQZw",
+    image: "https://img.youtube.com/vi/OkUB2mkaQZw/maxresdefault.jpg",
+    date: "2022-09-20",
+    year: "2022",
+    type: "Aula"
+  },
+  {
+    id: 42,
+    title: "RICK SANTANA - TRY - PRIMEIRO ATO",
+    category: "AULAS",
+    videoId: "dfhvCMVh5LY",
+    image: "https://img.youtube.com/vi/dfhvCMVh5LY/maxresdefault.jpg",
+    date: "2023-04-12",
+    year: "2023",
+    type: "Aula"
+  },
+  // DANCE VIDEOS - Adicionais
+  {
+    id: 43,
+    title: "RICK SANTANA & GLADSON SANTOS - THE NIGHT SEA",
+    category: "DANCE VIDEOS",
+    videoId: "kTodxM2m7b4",
+    image: "https://img.youtube.com/vi/kTodxM2m7b4/maxresdefault.jpg",
+    date: "2023-07-10",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 44,
+    title: "RICK SANTANA - SAUDADE",
+    category: "DANCE VIDEOS",
+    videoId: "UulN1fbwkaw",
+    image: "https://img.youtube.com/vi/UulN1fbwkaw/maxresdefault.jpg",
+    date: "2023-08-05",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 45,
+    title: "RICK SANTANA - MORNING BJ",
+    category: "DANCE VIDEOS",
+    videoId: "29C9hzdVvc0",
+    image: "https://img.youtube.com/vi/29C9hzdVvc0/maxresdefault.jpg",
+    date: "2023-09-12",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 46,
+    title: "RICK SANTANA - MARVEL",
+    category: "DANCE VIDEOS",
+    videoId: "c2EPQRk2e6U",
+    image: "https://img.youtube.com/vi/c2EPQRk2e6U/maxresdefault.jpg",
+    date: "2023-10-18",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 47,
+    title: "RICK SANTANA - LOVE AGAIN",
+    category: "DANCE VIDEOS",
+    videoId: "kgRg8W5mfVw",
+    image: "https://img.youtube.com/vi/kgRg8W5mfVw/maxresdefault.jpg",
+    date: "2023-11-05",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 48,
+    title: "RICK SANTANA - KNOW YOU",
+    category: "DANCE VIDEOS",
+    videoId: "UuaHrPHWxRM",
+    image: "https://img.youtube.com/vi/UuaHrPHWxRM/maxresdefault.jpg",
+    date: "2023-12-01",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 49,
+    title: "RICK SANTANA - KEEP COOL",
+    category: "DANCE VIDEOS",
+    videoId: "_7hVA5Ps1QY",
+    image: "https://img.youtube.com/vi/_7hVA5Ps1QY/maxresdefault.jpg",
+    date: "2024-01-08",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 50,
+    title: "RICK SANTANA - HELP MYSELF",
+    category: "DANCE VIDEOS",
+    videoId: "w54kBBMlAuU",
+    image: "https://img.youtube.com/vi/w54kBBMlAuU/maxresdefault.jpg",
+    date: "2024-02-02",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 51,
+    title: "RICK SANTANA FT. ALÊ MAYRINK - FAVORITE",
+    category: "DANCE VIDEOS",
+    videoId: "G0MDg4tByZo",
+    image: "https://img.youtube.com/vi/G0MDg4tByZo/maxresdefault.jpg",
+    date: "2024-02-25",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 52,
+    title: "RICK SANTANA & GLADSON SANTOS - DEIXA",
+    category: "DANCE VIDEOS",
+    videoId: "C27eXpeGkJ0",
+    image: "https://img.youtube.com/vi/C27eXpeGkJ0/maxresdefault.jpg",
+    date: "2024-03-15",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 53,
+    title: "RICK SANTANA - BYE BYE",
+    category: "DANCE VIDEOS",
+    videoId: "kXKxfPC8yeQ",
+    image: "https://img.youtube.com/vi/kXKxfPC8yeQ/maxresdefault.jpg",
+    date: "2024-04-08",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 54,
+    title: "A Talent - Paraguay",
+    category: "DANCE VIDEOS",
+    videoId: "2B1LSy2og8g",
+    image: "https://img.youtube.com/vi/2B1LSy2og8g/maxresdefault.jpg",
+    date: "2024-04-22",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 55,
+    title: "RICK SANTANA - 91 FLEX - FT. GLADSON SANTOS",
+    category: "DANCE VIDEOS",
+    videoId: "3O0zp_Oc8sI",
+    image: "https://img.youtube.com/vi/3O0zp_Oc8sI/maxresdefault.jpg",
+    date: "2024-05-01",
+    year: "2024",
+    type: "Video"
+  },
+  // FREESTYLES - Adicionais
+  {
+    id: 56,
+    title: "RICK SANTANA - NUDGE THEORY - FREESTYLE",
+    category: "FREESTYLES",
+    videoId: "ngJ9-eWU83w",
+    image: "https://img.youtube.com/vi/ngJ9-eWU83w/maxresdefault.jpg",
+    date: "2024-03-28",
+    year: "2024",
+    type: "Video"
+  },
+  {
+    id: 57,
+    title: "RICK SANTANA - ADDICTION - FREESTYLE",
+    category: "FREESTYLES",
+    videoId: "087sFYWMkGY",
+    image: "https://img.youtube.com/vi/087sFYWMkGY/maxresdefault.jpg",
+    date: "2024-04-18",
+    year: "2024",
+    type: "Video"
+  },
+  // DICAS - Adicionais
+  {
+    id: 58,
+    title: "TUTORIAL METAMORFOSE AMBULANTE - RICK SANTANA",
+    category: "DICAS",
+    videoId: "R0b0L0Y0Xc8",
+    image: "https://img.youtube.com/vi/R0b0L0Y0Xc8/maxresdefault.jpg",
+    date: "2024-04-25",
+    year: "2024",
+    type: "Dica"
   }
 ];
 
