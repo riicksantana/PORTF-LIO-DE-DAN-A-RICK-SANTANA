@@ -47,6 +47,16 @@ const PROJECTS: Project[] = [
     type: "Show",
     highlight: true
   },
+  {
+    id: 213,
+    title: "RICK SANTANA - SHOW 2025",
+    category: "SHOWS",
+    videoId: "2OKDo8LepJU",
+    image: "https://img.youtube.com/vi/2OKDo8LepJU/maxresdefault.jpg",
+    date: "2025-01-02",
+    year: "2025",
+    type: "Show"
+  },
 
   // AULAS
   {
@@ -227,6 +237,46 @@ const PROJECTS: Project[] = [
     image: "https://img.youtube.com/vi/Zq2p5VHsaaA/maxresdefault.jpg",
     date: "2024-03-27",
     year: "2024",
+    type: "Aula"
+  },
+  {
+    id: 201,
+    title: "RICK SANTANA - TRY - PARAGUAY - WORKSHOP",
+    category: "AULAS",
+    videoId: "z-yi2Viy2uM",
+    image: "https://img.youtube.com/vi/z-yi2Viy2uM/maxresdefault.jpg",
+    date: "2018-06-01",
+    year: "2018",
+    type: "Aula"
+  },
+  {
+    id: 208,
+    title: "RICK SANTANA - VENCEDORES",
+    category: "AULAS",
+    videoId: "DimXmipYRK0",
+    image: "https://img.youtube.com/vi/DimXmipYRK0/maxresdefault.jpg",
+    date: "2021-01-01",
+    year: "2021",
+    type: "Aula"
+  },
+  {
+    id: 221,
+    title: "RICK SANTANA - LAMOUR - WORKSHOP",
+    category: "AULAS",
+    videoId: "5kQcd7ZR7Hg",
+    image: "https://img.youtube.com/vi/5kQcd7ZR7Hg/maxresdefault.jpg",
+    date: "2021-01-02",
+    year: "2021",
+    type: "Aula"
+  },
+  {
+    id: 212,
+    title: "SLEEP - PRIMEIRO ATO - RICK SANTANA",
+    category: "AULAS",
+    videoId: "Gm0edQebGac",
+    image: "https://img.youtube.com/vi/Gm0edQebGac/maxresdefault.jpg",
+    date: "2025-01-01",
+    year: "2025",
     type: "Aula"
   },
 
@@ -568,6 +618,116 @@ const PROJECTS: Project[] = [
     year: "2024",
     type: "Video"
   },
+  {
+    id: 206,
+    title: "RICK SANTANA - WILD",
+    category: "DANCE VIDEOS",
+    videoId: "nZ5ZdDtrdbs",
+    image: "https://img.youtube.com/vi/nZ5ZdDtrdbs/maxresdefault.jpg",
+    date: "2020-06-02",
+    year: "2020",
+    type: "Video"
+  },
+  {
+    id: 200,
+    title: "RICK SANTANA - QUANDO ME ENCONTRAR",
+    category: "DANCE VIDEOS",
+    videoId: "wf4GuLg1YeM",
+    image: "https://img.youtube.com/vi/wf4GuLg1YeM/maxresdefault.jpg",
+    date: "2021-06-01",
+    year: "2021",
+    type: "Video"
+  },
+  {
+    id: 203,
+    title: "RICK SANTANA - EX",
+    category: "DANCE VIDEOS",
+    videoId: "an9Yhj5BkEc",
+    image: "https://img.youtube.com/vi/an9Yhj5BkEc/maxresdefault.jpg",
+    date: "2021-06-02",
+    year: "2021",
+    type: "Video"
+  },
+  {
+    id: 205,
+    title: "RICK SANTANA - AQUELE ALGUEM",
+    category: "DANCE VIDEOS",
+    videoId: "VSticrv8VeE",
+    image: "https://img.youtube.com/vi/VSticrv8VeE/maxresdefault.jpg",
+    date: "2021-06-03",
+    year: "2021",
+    type: "Video"
+  },
+  {
+    id: 209,
+    title: "RICK SANTANA - UM DIA PRA NÓS DOIS",
+    category: "DANCE VIDEOS",
+    videoId: "DKyfPQgzSSk",
+    image: "https://img.youtube.com/vi/DKyfPQgzSSk/maxresdefault.jpg",
+    date: "2021-06-04",
+    year: "2021",
+    type: "Video"
+  },
+  {
+    id: 210,
+    title: "TRY - RICK SANTANA",
+    category: "DANCE VIDEOS",
+    videoId: "eU2GcNzodKw",
+    image: "https://img.youtube.com/vi/eU2GcNzodKw/maxresdefault.jpg",
+    date: "2021-06-05",
+    year: "2021",
+    type: "Video"
+  },
+  {
+    id: 215,
+    title: "PONTOS DE EXCLAMAÇÃO - RICK SANTANA E MILLENA SEMIM",
+    category: "DANCE VIDEOS",
+    videoId: "1_n6079tpEU",
+    image: "https://img.youtube.com/vi/1_n6079tpEU/maxresdefault.jpg",
+    date: "2022-01-01",
+    year: "2022",
+    type: "Video"
+  },
+  {
+    id: 220,
+    title: "METAMORFOSE AMBULANTE - RICK SANTANA",
+    category: "DANCE VIDEOS",
+    videoId: "1koW-BmGuFk",
+    image: "https://img.youtube.com/vi/1koW-BmGuFk/maxresdefault.jpg",
+    date: "2022-01-02",
+    year: "2022",
+    type: "Video"
+  },
+  {
+    id: 216,
+    title: "PÉ NA AREIA - RICK SANTANA",
+    category: "DANCE VIDEOS",
+    videoId: "GwQLQbgJl0Q",
+    image: "https://img.youtube.com/vi/GwQLQbgJl0Q/maxresdefault.jpg",
+    date: "2023-01-02",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 218,
+    title: "NEM DE GRAÇA - RICK SANTANA",
+    category: "DANCE VIDEOS",
+    videoId: "crfLsqDYrB0",
+    image: "https://img.youtube.com/vi/crfLsqDYrB0/maxresdefault.jpg",
+    date: "2023-01-03",
+    year: "2023",
+    type: "Video"
+  },
+  {
+    id: 219,
+    title: "MINHA CURA - RICK SANTANA",
+    category: "DANCE VIDEOS",
+    videoId: "UQUU4h50gtM",
+    image: "https://img.youtube.com/vi/UQUU4h50gtM/maxresdefault.jpg",
+    date: "2023-01-04",
+    year: "2023",
+    type: "Video"
+  },
 
   // FREESTYLES
   {
@@ -628,6 +788,66 @@ const PROJECTS: Project[] = [
     image: "https://img.youtube.com/vi/lu8gmaQr3Kg/maxresdefault.jpg",
     date: "2024-05-06",
     year: "2024",
+    type: "Freestyle"
+  },
+  {
+    id: 202,
+    title: "RICK SANTANA - FREESTYLE - RAVEENA",
+    category: "FREESTYLES",
+    videoId: "3TKo54gQOos",
+    image: "https://img.youtube.com/vi/3TKo54gQOos/maxresdefault.jpg",
+    date: "2020-06-01",
+    year: "2020",
+    type: "Freestyle"
+  },
+  {
+    id: 204,
+    title: "Rick Santana - Booling - Freestyle",
+    category: "FREESTYLES",
+    videoId: "8W7iao7uKoo",
+    image: "https://img.youtube.com/vi/8W7iao7uKoo/maxresdefault.jpg",
+    date: "2021-06-01",
+    year: "2021",
+    type: "Freestyle"
+  },
+  {
+    id: 207,
+    title: "RICK SANTANA - WHO'S - FREESTYLE",
+    category: "FREESTYLES",
+    videoId: "BMS-3emMUEM",
+    image: "https://img.youtube.com/vi/BMS-3emMUEM/maxresdefault.jpg",
+    date: "2021-06-02",
+    year: "2021",
+    type: "Freestyle"
+  },
+  {
+    id: 211,
+    title: "SLOW DOWN - FREESTYLE - RICK SANTANA",
+    category: "FREESTYLES",
+    videoId: "SH18rAdrt1E",
+    image: "https://img.youtube.com/vi/SH18rAdrt1E/maxresdefault.jpg",
+    date: "2021-06-03",
+    year: "2021",
+    type: "Freestyle"
+  },
+  {
+    id: 217,
+    title: "OVERTHINKER - RICK SANTANA - FREESTYLE",
+    category: "FREESTYLES",
+    videoId: "X7KCv-Sik28",
+    image: "https://img.youtube.com/vi/X7KCv-Sik28/maxresdefault.jpg",
+    date: "2021-06-04",
+    year: "2021",
+    type: "Freestyle"
+  },
+  {
+    id: 214,
+    title: "POP THAT - RICK SANTANA - FREESTYLE",
+    category: "FREESTYLES",
+    videoId: "Q-DEm9oaYI8",
+    image: "https://img.youtube.com/vi/Q-DEm9oaYI8/maxresdefault.jpg",
+    date: "2023-01-01",
+    year: "2023",
     type: "Freestyle"
   },
 
@@ -740,9 +960,10 @@ const Hero = () => {
     <section id="home" className="relative h-[100dvh] min-h-[600px] flex items-center justify-center overflow-hidden bg-brand-black">
       {/* Background Image */}
       <img 
-        src="https://i.postimg.cc/4d220nJ2/Image-(1).jpg" 
+        src="https://i.imgur.com/i0HubJ8.jpeg" 
         alt="Rick Santana Background"
         className="absolute inset-0 w-full h-full object-cover opacity-80 md:opacity-60 grayscale-0 md:grayscale scale-105 z-0"
+        id="hero-background-image"
         loading="eager"
         referrerPolicy="no-referrer"
         crossOrigin="anonymous"
