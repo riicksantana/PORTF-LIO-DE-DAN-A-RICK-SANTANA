@@ -42,8 +42,8 @@ const PROJECTS: Project[] = [
     category: "SHOWS",
     videoId: "sTOTjHhJSJg",
     image: "https://img.youtube.com/vi/sTOTjHhJSJg/maxresdefault.jpg",
-    date: "2024-03-15",
-    year: "2024",
+    date: "2023-03-15",
+    year: "2023",
     type: "Show",
     highlight: true
   },
@@ -75,8 +75,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "GSdAS-BRT4k",
     image: "https://img.youtube.com/vi/GSdAS-BRT4k/maxresdefault.jpg",
-    date: "2020-07-20",
-    year: "2020",
+    date: "2019-07-20",
+    year: "2019",
     type: "Aula",
     highlight: true
   },
@@ -108,8 +108,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "rRYeS9W1jdc",
     image: "https://img.youtube.com/vi/rRYeS9W1jdc/maxresdefault.jpg",
-    date: "2023-05-15",
-    year: "2023",
+    date: "2020-05-15",
+    year: "2020",
     type: "Aula"
   },
   {
@@ -118,8 +118,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "-naPVVYuSHE",
     image: "https://img.youtube.com/vi/-naPVVYuSHE/maxresdefault.jpg",
-    date: "2023-06-10",
-    year: "2023",
+    date: "2019-06-10",
+    year: "2019",
     type: "Aula",
     highlight: true
   },
@@ -139,8 +139,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "OkUB2mkaQZw",
     image: "https://img.youtube.com/vi/OkUB2mkaQZw/maxresdefault.jpg",
-    date: "2024-01-10",
-    year: "2024",
+    date: "2021-01-10",
+    year: "2021",
     type: "Aula",
     highlight: true
   },
@@ -161,8 +161,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "1ENDS5zWHxU",
     image: "https://img.youtube.com/vi/1ENDS5zWHxU/maxresdefault.jpg",
-    date: "2024-03-20",
-    year: "2024",
+    date: "2021-03-20",
+    year: "2021",
     type: "Aula",
     highlight: true
   },
@@ -172,8 +172,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "2eFZgn9RfVk",
     image: "https://img.youtube.com/vi/2eFZgn9RfVk/maxresdefault.jpg",
-    date: "2024-03-21",
-    year: "2024",
+    date: "2021-03-21",
+    year: "2021",
     type: "Aula"
   },
   {
@@ -182,8 +182,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "jGQmw-qoZmc",
     image: "https://img.youtube.com/vi/jGQmw-qoZmc/maxresdefault.jpg",
-    date: "2024-03-22",
-    year: "2024",
+    date: "2025-03-22",
+    year: "2025",
     type: "Aula",
     highlight: true
   },
@@ -204,8 +204,8 @@ const PROJECTS: Project[] = [
     category: "AULAS",
     videoId: "A_Qa5SNizsk",
     image: "https://img.youtube.com/vi/A_Qa5SNizsk/maxresdefault.jpg",
-    date: "2024-03-24",
-    year: "2024",
+    date: "2022-03-24",
+    year: "2022",
     type: "Aula"
   },
   {
@@ -224,8 +224,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "5j4Sy8_zZtM",
     image: "https://img.youtube.com/vi/5j4Sy8_zZtM/maxresdefault.jpg",
-    date: "2024-03-26",
-    year: "2024",
+    date: "2019-03-26",
+    year: "2019",
     type: "Video",
     highlight: true
   },
@@ -287,8 +287,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "kTodxM2m7b4",
     image: "https://img.youtube.com/vi/kTodxM2m7b4/maxresdefault.jpg",
-    date: "2024-02-15",
-    year: "2024",
+    date: "2019-02-15",
+    year: "2019",
     type: "Video"
   },
   {
@@ -297,8 +297,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "UulN1fbwkaw",
     image: "https://img.youtube.com/vi/UulN1fbwkaw/maxresdefault.jpg",
-    date: "2023-11-10",
-    year: "2023",
+    date: "2019-11-10",
+    year: "2019",
     type: "Video"
   },
   {
@@ -307,8 +307,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "29C9hzdVvc0",
     image: "https://img.youtube.com/vi/29C9hzdVvc0/maxresdefault.jpg",
-    date: "2024-01-20",
-    year: "2024",
+    date: "2020-01-20",
+    year: "2020",
     type: "Video",
     highlight: true
   },
@@ -318,8 +318,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "c2EPQRk2e6U",
     image: "https://img.youtube.com/vi/c2EPQRk2e6U/maxresdefault.jpg",
-    date: "2024-03-05",
-    year: "2024",
+    date: "2019-03-05",
+    year: "2019",
     type: "Video"
   },
   {
@@ -328,8 +328,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "kgRg8W5mfVw",
     image: "https://img.youtube.com/vi/kgRg8W5mfVw/maxresdefault.jpg",
-    date: "2023-12-15",
-    year: "2023",
+    date: "2019-12-15",
+    year: "2019",
     type: "Video",
     highlight: true
   },
@@ -350,8 +350,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "_7hVA5Ps1QY",
     image: "https://img.youtube.com/vi/_7hVA5Ps1QY/maxresdefault.jpg",
-    date: "2024-03-25",
-    year: "2024",
+    date: "2020-03-25",
+    year: "2020",
     type: "Video",
     highlight: true
   },
@@ -361,8 +361,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "w54kBBMlAuU",
     image: "https://img.youtube.com/vi/w54kBBMlAuU/maxresdefault.jpg",
-    date: "2024-02-10",
-    year: "2024",
+    date: "2020-02-10",
+    year: "2020",
     type: "Video",
     highlight: true
   },
@@ -372,8 +372,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "G0MDg4tByZo",
     image: "https://img.youtube.com/vi/G0MDg4tByZo/maxresdefault.jpg",
-    date: "2024-04-01",
-    year: "2024",
+    date: "2020-04-01",
+    year: "2020",
     type: "Video"
   },
   {
@@ -382,8 +382,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "C27eXpeGkJ0",
     image: "https://img.youtube.com/vi/C27eXpeGkJ0/maxresdefault.jpg",
-    date: "2023-09-15",
-    year: "2023",
+    date: "2019-09-15",
+    year: "2019",
     type: "Video",
     highlight: true
   },
@@ -393,8 +393,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "kXKxfPC8yeQ",
     image: "https://img.youtube.com/vi/kXKxfPC8yeQ/maxresdefault.jpg",
-    date: "2024-05-01",
-    year: "2024",
+    date: "2019-05-01",
+    year: "2019",
     type: "Video"
   },
   {
@@ -403,8 +403,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "2B1LSy2og8g",
     image: "https://img.youtube.com/vi/2B1LSy2og8g/maxresdefault.jpg",
-    date: "2023-08-20",
-    year: "2023",
+    date: "2019-08-20",
+    year: "2019",
     type: "Video",
     highlight: true
   },
@@ -414,8 +414,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "3O0zp_Oc8sI",
     image: "https://img.youtube.com/vi/3O0zp_Oc8sI/maxresdefault.jpg",
-    date: "2024-04-15",
-    year: "2024",
+    date: "2019-04-15",
+    year: "2019",
     type: "Video"
   },
   {
@@ -424,8 +424,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "3Wf25IdsADI",
     image: "https://img.youtube.com/vi/3Wf25IdsADI/maxresdefault.jpg",
-    date: "2024-04-16",
-    year: "2024",
+    date: "2023-04-16",
+    year: "2023",
     type: "Video"
   },
   {
@@ -434,8 +434,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "9mwmFa3fcjM",
     image: "https://img.youtube.com/vi/9mwmFa3fcjM/maxresdefault.jpg",
-    date: "2024-04-10",
-    year: "2024",
+    date: "2026-04-10",
+    year: "2026",
     type: "Video",
     highlight: true
   },
@@ -455,8 +455,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "58GHJeQZEK0",
     image: "https://img.youtube.com/vi/58GHJeQZEK0/maxresdefault.jpg",
-    date: "2024-04-18",
-    year: "2024",
+    date: "2022-04-18",
+    year: "2022",
     type: "Video"
   },
   {
@@ -465,8 +465,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "hUwj4nH_UMo",
     image: "https://img.youtube.com/vi/hUwj4nH_UMo/maxresdefault.jpg",
-    date: "2024-04-19",
-    year: "2024",
+    date: "2020-04-19",
+    year: "2020",
     type: "Video",
     highlight: true
   },
@@ -476,18 +476,18 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "F0Uydbd-ePU",
     image: "https://img.youtube.com/vi/F0Uydbd-ePU/maxresdefault.jpg",
-    date: "2024-04-20",
-    year: "2024",
+    date: "2022-04-20",
+    year: "2022",
     type: "Video"
   },
   {
     id: 39,
-    title: "Rick Santana - Brazil Dance Camp 2022",
+    title: "Rick Santana - Brazil Dance Camp 2023",
     category: "DANCE VIDEOS",
     videoId: "XjUFsWa1v7k",
     image: "https://img.youtube.com/vi/XjUFsWa1v7k/maxresdefault.jpg",
-    date: "2022-07-15",
-    year: "2022",
+    date: "2023-07-15",
+    year: "2023",
     type: "Video",
     highlight: true
   },
@@ -497,8 +497,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "LQfeBytMQpc",
     image: "https://img.youtube.com/vi/LQfeBytMQpc/maxresdefault.jpg",
-    date: "2024-04-21",
-    year: "2024",
+    date: "2018-04-21",
+    year: "2018",
     type: "Video",
     highlight: true
   },
@@ -508,8 +508,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "w2dCq130TSM",
     image: "https://img.youtube.com/vi/w2dCq130TSM/maxresdefault.jpg",
-    date: "2024-04-22",
-    year: "2024",
+    date: "2018-04-22",
+    year: "2018",
     type: "Video",
     highlight: true
   },
@@ -519,8 +519,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "X2DE-qYcec4",
     image: "https://img.youtube.com/vi/X2DE-qYcec4/maxresdefault.jpg",
-    date: "2024-04-23",
-    year: "2024",
+    date: "2019-04-23",
+    year: "2019",
     type: "Video",
     highlight: true
   },
@@ -530,8 +530,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "NzKkaxCbvDI",
     image: "https://img.youtube.com/vi/NzKkaxCbvDI/maxresdefault.jpg",
-    date: "2024-04-24",
-    year: "2024",
+    date: "2019-04-24",
+    year: "2019",
     type: "Video",
     highlight: true
   },
@@ -541,8 +541,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "XExuUsUJyK0",
     image: "https://img.youtube.com/vi/XExuUsUJyK0/maxresdefault.jpg",
-    date: "2024-04-25",
-    year: "2024",
+    date: "2018-04-25",
+    year: "2018",
     type: "Video"
   },
   {
@@ -634,8 +634,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "wf4GuLg1YeM",
     image: "https://img.youtube.com/vi/wf4GuLg1YeM/maxresdefault.jpg",
-    date: "2021-06-01",
-    year: "2021",
+    date: "2020-06-01",
+    year: "2020",
     type: "Video"
   },
   {
@@ -644,8 +644,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "an9Yhj5BkEc",
     image: "https://img.youtube.com/vi/an9Yhj5BkEc/maxresdefault.jpg",
-    date: "2021-06-02",
-    year: "2021",
+    date: "2020-06-02",
+    year: "2020",
     type: "Video"
   },
   {
@@ -654,8 +654,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "VSticrv8VeE",
     image: "https://img.youtube.com/vi/VSticrv8VeE/maxresdefault.jpg",
-    date: "2021-06-03",
-    year: "2021",
+    date: "2020-06-03",
+    year: "2020",
     type: "Video"
   },
   {
@@ -694,8 +694,8 @@ const PROJECTS: Project[] = [
     category: "DANCE VIDEOS",
     videoId: "1koW-BmGuFk",
     image: "https://img.youtube.com/vi/1koW-BmGuFk/maxresdefault.jpg",
-    date: "2022-01-02",
-    year: "2022",
+    date: "2021-01-02",
+    year: "2021",
     type: "Video"
   },
   {
@@ -736,8 +736,8 @@ const PROJECTS: Project[] = [
     category: "FREESTYLES",
     videoId: "ngJ9-eWU83w",
     image: "https://img.youtube.com/vi/ngJ9-eWU83w/maxresdefault.jpg",
-    date: "2024-01-12",
-    year: "2024",
+    date: "2020-01-12",
+    year: "2020",
     type: "Freestyle"
   },
   {
@@ -746,8 +746,8 @@ const PROJECTS: Project[] = [
     category: "FREESTYLES",
     videoId: "087sFYWMkGY",
     image: "https://img.youtube.com/vi/087sFYWMkGY/maxresdefault.jpg",
-    date: "2024-03-30",
-    year: "2024",
+    date: "2020-03-30",
+    year: "2020",
     type: "Freestyle"
   },
   {
@@ -766,8 +766,8 @@ const PROJECTS: Project[] = [
     category: "FREESTYLES",
     videoId: "gi16qcx130k",
     image: "https://img.youtube.com/vi/gi16qcx130k/maxresdefault.jpg",
-    date: "2024-05-04",
-    year: "2024",
+    date: "2023-05-04",
+    year: "2023",
     type: "Freestyle"
   },
   {
@@ -796,8 +796,8 @@ const PROJECTS: Project[] = [
     category: "FREESTYLES",
     videoId: "3TKo54gQOos",
     image: "https://img.youtube.com/vi/3TKo54gQOos/maxresdefault.jpg",
-    date: "2020-06-01",
-    year: "2020",
+    date: "2019-06-01",
+    year: "2019",
     type: "Freestyle"
   },
   {
@@ -806,8 +806,8 @@ const PROJECTS: Project[] = [
     category: "FREESTYLES",
     videoId: "8W7iao7uKoo",
     image: "https://img.youtube.com/vi/8W7iao7uKoo/maxresdefault.jpg",
-    date: "2021-06-01",
-    year: "2021",
+    date: "2020-06-01",
+    year: "2020",
     type: "Freestyle"
   },
   {
